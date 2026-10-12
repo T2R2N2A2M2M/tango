@@ -1,5 +1,6 @@
-# 鱗星くんは宇宙人 
-By 和田すばやく(漫画) & サブロー(原作)
+# [鱗星くんは宇宙人](https://www.kadokawa.co.jp/product/322502000724/)
+漫画：[和田すばやく](https://x.com/fuyu_haru_haru)
+原作：[サブロー](https://x.com/saburo__moon)
 
 ## Characters
 - 鱗星(うろこぼし): 鱗(fish scales)＋星(star) | 青(あお): blue
